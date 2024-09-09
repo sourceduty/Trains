@@ -76,6 +76,10 @@ The train car billboard's design also takes into consideration the structural st
 Furthermore, the concept provides an eco-friendly alternative to traditional billboards, which often require significant energy for illumination and maintenance. The train car billboard can be integrated with solar panels and energy-efficient lighting systems, reducing its environmental footprint. Moreover, by utilizing existing rail infrastructure, it minimizes the need for additional construction and land use, making it a sustainable option for large-scale advertising campaigns. This blend of mobility, durability, and sustainability makes the train car billboard a forward-thinking solution in the advertising industry.
 
 #
+
+![Trains](https://github.com/user-attachments/assets/33837e3b-8537-45c6-b4e0-8c241c5b1036)
+
+#
 ### Related Links
 
 [Car Design](https://github.com/sourceduty/Car_Design)
