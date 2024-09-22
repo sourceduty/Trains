@@ -76,6 +76,17 @@ The train car billboard's design also takes into consideration the structural st
 Furthermore, the concept provides an eco-friendly alternative to traditional billboards, which often require significant energy for illumination and maintenance. The train car billboard can be integrated with solar panels and energy-efficient lighting systems, reducing its environmental footprint. Moreover, by utilizing existing rail infrastructure, it minimizes the need for additional construction and land use, making it a sustainable option for large-scale advertising campaigns. This blend of mobility, durability, and sustainability makes the train car billboard a forward-thinking solution in the advertising industry.
 
 #
+### Maintenance
+
+![Rails](https://github.com/user-attachments/assets/1ace227d-f3e6-48aa-bc14-d41c308de9c7)
+
+High-speed train rails generally require replacement every 10 to 20 years, depending on the frequency of use, environmental conditions, and maintenance practices. The wear and tear on the rails are significantly influenced by factors such as the speed of trains, the number of daily journeys, and the quality of the infrastructure. Regular maintenance like grinding the rail surfaces and adjusting the tracks can extend their lifespan and improve safety and efficiency. Unlike traditional railways, high-speed lines endure higher forces due to greater train speeds, necessitating a more rigorous inspection and replacement schedule.
+
+In contrast, major highway maintenance is typically required more frequently, with resurfacing or repaving often needed every 5 to 10 years. This can vary depending on traffic volume, weather conditions, and the materials used in the road construction. Highways are subjected to constant heavy loads from vehicles, especially trucks, which accelerates the degradation of the surface. Maintenance activities such as pothole repairs, resurfacing, and sometimes complete reconstruction are common and essential to ensure safe driving conditions.
+
+While both high-speed rail and highways demand substantial upkeep, rail infrastructure generally has a longer replacement cycle compared to roads due to its design and lower exposure to varying loads. However, high-speed rail maintenance is more specialized and costly due to the precision required in track alignment and stability. Highways, on the other hand, incur continuous repair costs because of their exposure to diverse environmental factors and the continuous pressure from vehicle traffic.
+
+#
 
 ![Trains](https://github.com/user-attachments/assets/33837e3b-8537-45c6-b4e0-8c241c5b1036)
 
