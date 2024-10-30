@@ -89,8 +89,6 @@ While both high-speed rail and highways demand substantial upkeep, rail infrastr
 #
 ![Old Underwater Rail System](https://github.com/user-attachments/assets/09226237-9fda-49f6-a06d-2ee59690f191)
 #
-![Retro Glass Roof City Bus](https://github.com/user-attachments/assets/51a523a5-de86-4243-bb34-4db1181783f9)
-#
 ![Trains](https://github.com/user-attachments/assets/33837e3b-8537-45c6-b4e0-8c241c5b1036)
 
 #
